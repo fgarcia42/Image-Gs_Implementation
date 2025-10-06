@@ -1,5 +1,6 @@
 # Image-Gs_Implementation
-This is a custom implementation of https://arxiv.org/pdf/2407.01866.<br>
+This is a custom implementation of the paper "Image-GS: Content-Adaptive Image Representation via 2D Gaussians". <br>
+Paper: https://arxiv.org/pdf/2407.01866.<br>
 Not complete.<br>
 This isn't a full implementation.<br>
 It's not optimized.<br>
